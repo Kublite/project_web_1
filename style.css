@@ -1,0 +1,57 @@
+body{
+    background: url(https://oir.mobi/uploads/posts/2022-08/thumbs/1661384147_23-oir-mobi-p-fon-yaponskii-stil-pinterest-24.jpg) no-repeat;
+    background-color: rgba(29, 29, 27);
+    background-size: contain;
+    background-position:top;
+}
+
+h1{font-size: 22em;
+    margin: 2%;
+    margin-top: 16%;
+    color: rgb(43, 43, 43);}
+
+.font{font-family:Helvetica, Arial, sans-serif;}
+
+
+.description{
+    color: darkgrey;
+    font-size: 0.7em;
+}
+
+.margin_item_tile-one{
+    margin-top: 25%;
+}
+
+.descent_footer{margin-left: 98%;
+    font-size: 2em;
+}
+
+.footer{
+    color: darksalmon;
+    text-align: center;
+}
+
+.link, .link:visited{
+    text-decoration: none;
+    color: darksalmon;
+}
+
+.button, .button:visited{ 
+    text-decoration: none; 
+    color: darksalmon; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+    margin: 2%; 
+    padding: 10%; 
+    border: 10px solid #000; 
+    border-radius: 500px; 
+    background-color: rgb(43, 43, 43); 
+} 
+
+.image-container { 
+    display: flex; 
+    align-items: center; 
+    margin-right: 5%; 
+    position: right; 
+} 
